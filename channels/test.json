@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "version": "0.2.11",
+  "version": "0.2.12",
   "released": "2026-10-01",
   "notes": [
-    "New update button at the bottom left: updates now pop up with Yes / Later",
-    "View QR Code on an order that's already picked up shows \"Pickup Confirmed\" instead of a popup",
-    "Order Checker: 👍/✅ on a QR code also confirms orders Apple already shows as collected"
+    "Your license key is now kept safely on this computer: Sign out in Settings → Account for shared computers",
+    "After a crash, the app opens again straight away on the same computer",
+    "Fewer license-server hiccups, and the update arrow lights up as soon as the app opens"
   ],
   "builds": {
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.11/app-regular.exe",
-        "size": 35949132,
-        "sha256": "62e6cc12e9627282191d483ebe6fdb2e4e5dae088a708c0f777e2220f3306dc3"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/app-regular.exe",
+        "size": 35963047,
+        "sha256": "706c0ffb499a6e1f6257a6169e878c95195423f6231fef78bdaef74d88c79819"
       },
       {
         "name": "automation.exe",
@@ -29,17 +29,17 @@
       },
       {
         "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.11/USER_GUIDE.txt",
-        "size": 20906,
-        "sha256": "24a6f0b57ddeef3236334130d5630caae8a5c029716b55dda1f3b047da6f89c8"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/USER_GUIDE.txt",
+        "size": 27571,
+        "sha256": "5031fd2106a64844717b186f01a08e5f48f1589598fbcd744ac937a5bb5f874e"
       }
     ],
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.11/app-order-checker.exe",
-        "size": 35949379,
-        "sha256": "af820b559736c17edc860e9680bf5616a265d9be0cad4e436b94c5baad4c5eff"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/app-order-checker.exe",
+        "size": 35962960,
+        "sha256": "249a2a622aef523136f4d758880362fd5858c20706a6e23d1b33f9a62f60e058"
       },
       {
         "name": "automation.exe",
@@ -55,9 +55,39 @@
       },
       {
         "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.11/USER_GUIDE.txt",
-        "size": 20906,
-        "sha256": "24a6f0b57ddeef3236334130d5630caae8a5c029716b55dda1f3b047da6f89c8"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/USER_GUIDE.txt",
+        "size": 27571,
+        "sha256": "5031fd2106a64844717b186f01a08e5f48f1589598fbcd744ac937a5bb5f874e"
+      }
+    ],
+    "mac-regular": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/mac-regular.app.tar.gz",
+        "size": 84968265,
+        "sha256": "77cf969173daa6bfcbf1ac2e4ba692a3bb79946020c2b6ab841d5bf1a03d4ad3",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/USER_GUIDE.txt",
+        "size": 27571,
+        "sha256": "5031fd2106a64844717b186f01a08e5f48f1589598fbcd744ac937a5bb5f874e"
+      }
+    ],
+    "mac-order-checker": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/mac-order-checker.app.tar.gz",
+        "size": 84966637,
+        "sha256": "fcc2dc7fc6730acbc712672b3efb1098b8604626ec096bba75aa611c2b1f5ed8",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.12/USER_GUIDE.txt",
+        "size": 27571,
+        "sha256": "5031fd2106a64844717b186f01a08e5f48f1589598fbcd744ac937a5bb5f874e"
       }
     ]
   }
