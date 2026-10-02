@@ -1,20 +1,17 @@
 {
   "schema": 1,
-  "version": "0.2.19",
-  "released": "2026-10-01",
+  "version": "0.2.20",
+  "released": "2026-10-02",
   "notes": [
-    "Add as many Discord webhooks as you like to every notification type, each with a nickname (Settings → Discord Webhooks now has clear section titles)",
-    "Pick which webhook a task posts to when you create, edit or import tasks (new WEBHOOK option)",
-    "Order Checker: “Pickup Notifications” is now called “Order Status”",
-    "Auto Checker: a 👍 or ✅ on a Name Change Success post now checks the pickup too, just like on a QR code"
+    "Auto Checker: reacted 👍/✅ to the wrong order? Take the reaction off and the app stops checking that order until someone reacts again"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/app.exe",
-        "size": 35996483,
-        "sha256": "f5fbc27a108f9990d03f5a06c407d53b9e947c09914151adc1d3b02c23cb3098"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/app.exe",
+        "size": 35999981,
+        "sha256": "d47af5bd127c69c834561b12685a79a09205ef9976747e4b28a8411a211b86d5"
       },
       {
         "name": "automation.exe",
@@ -38,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/app.exe",
-        "size": 35996483,
-        "sha256": "f5fbc27a108f9990d03f5a06c407d53b9e947c09914151adc1d3b02c23cb3098"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/app.exe",
+        "size": 35999981,
+        "sha256": "d47af5bd127c69c834561b12685a79a09205ef9976747e4b28a8411a211b86d5"
       },
       {
         "name": "automation.exe",
@@ -64,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/app.exe",
-        "size": 35996483,
-        "sha256": "f5fbc27a108f9990d03f5a06c407d53b9e947c09914151adc1d3b02c23cb3098"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/app.exe",
+        "size": 35999981,
+        "sha256": "d47af5bd127c69c834561b12685a79a09205ef9976747e4b28a8411a211b86d5"
       },
       {
         "name": "automation.exe",
@@ -90,9 +87,9 @@
     "mac": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/mac.app.tar.gz",
-        "size": 84999271,
-        "sha256": "c5e0f74cdddd2291c3a932293578cfaee792d0b0cec2ffacd68c87f50d1e65ed",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/mac.app.tar.gz",
+        "size": 85000624,
+        "sha256": "770fc9ca3cd89feaf9c7bdcf943e5914f28ffb376668ed503e33f4873ac91893",
         "archive": "tar.gz"
       },
       {
@@ -105,9 +102,9 @@
     "mac-regular": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/mac.app.tar.gz",
-        "size": 84999271,
-        "sha256": "c5e0f74cdddd2291c3a932293578cfaee792d0b0cec2ffacd68c87f50d1e65ed",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/mac.app.tar.gz",
+        "size": 85000624,
+        "sha256": "770fc9ca3cd89feaf9c7bdcf943e5914f28ffb376668ed503e33f4873ac91893",
         "archive": "tar.gz"
       },
       {
@@ -120,9 +117,9 @@
     "mac-order-checker": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.19/mac.app.tar.gz",
-        "size": 84999271,
-        "sha256": "c5e0f74cdddd2291c3a932293578cfaee792d0b0cec2ffacd68c87f50d1e65ed",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.20/mac.app.tar.gz",
+        "size": 85000624,
+        "sha256": "770fc9ca3cd89feaf9c7bdcf943e5914f28ffb376668ed503e33f4873ac91893",
         "archive": "tar.gz"
       },
       {
