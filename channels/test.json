@@ -4,7 +4,6 @@
   "released": "2026-10-02",
   "notes": [
     "Auto Checker: reacted 👍/✅ to the wrong order? Take the reaction off and the app stops checking that order until someone reacts again",
-    "Google Sheets: select tasks and right-click → Send to Google Sheet to write them into your own sheet (set it up in Settings → Google Sheets)",
     "Task groups: select tasks and right-click → Move to Group to put them on their own tab (e.g. an old batch). + Add Task can add new tasks straight to a group"
   ],
   "builds": {
@@ -12,8 +11,8 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/app.exe",
-        "size": 36041034,
-        "sha256": "86265eedd25450d1eae10bb54e74690117491f698fa63ff5d8e48ab6091759de"
+        "size": 36018431,
+        "sha256": "c3d03a6973372d9e97f42f0d1b3fa479e621e465cd7dd1c2e0269e1c595f2dcf"
       },
       {
         "name": "automation.exe",
@@ -30,16 +29,16 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
-        "size": 18812,
-        "sha256": "c922fe98713d45dc9e2722a5790a3661101bd82f0ef5868557304d61d6065b56"
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
       }
     ],
     "windows-regular": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/app.exe",
-        "size": 36041034,
-        "sha256": "86265eedd25450d1eae10bb54e74690117491f698fa63ff5d8e48ab6091759de"
+        "size": 36018431,
+        "sha256": "c3d03a6973372d9e97f42f0d1b3fa479e621e465cd7dd1c2e0269e1c595f2dcf"
       },
       {
         "name": "automation.exe",
@@ -56,16 +55,16 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
-        "size": 18812,
-        "sha256": "c922fe98713d45dc9e2722a5790a3661101bd82f0ef5868557304d61d6065b56"
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
       }
     ],
     "windows-order-checker": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/app.exe",
-        "size": 36041034,
-        "sha256": "86265eedd25450d1eae10bb54e74690117491f698fa63ff5d8e48ab6091759de"
+        "size": 36018431,
+        "sha256": "c3d03a6973372d9e97f42f0d1b3fa479e621e465cd7dd1c2e0269e1c595f2dcf"
       },
       {
         "name": "automation.exe",
@@ -82,8 +81,8 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
-        "size": 18812,
-        "sha256": "c922fe98713d45dc9e2722a5790a3661101bd82f0ef5868557304d61d6065b56"
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
       }
     ]
   }
