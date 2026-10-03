@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "version": "0.2.22",
-  "released": "2026-10-02",
+  "released": "2026-10-03",
   "notes": [
     "Auto Checker: reacted 👍/✅ to the wrong order? Take the reaction off and the app stops checking that order until someone reacts again",
     "Task groups: select tasks and right-click → Move to Group to put them on their own tab (e.g. an old batch). + Add Task can add new tasks straight to a group"
@@ -77,6 +77,51 @@
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.10/login_worker.exe",
         "size": 127660544,
         "sha256": "d3a63927c5ee3904e9384c35f54dafdc3e507242080c35802ffdd5c5163863c4"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
+      }
+    ],
+    "mac": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/mac.app.tar.gz",
+        "size": 85017985,
+        "sha256": "1afd082b2dc2a615a3f9f98b940005dc40f7615830f94d1c5de197b1f40413ba",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
+      }
+    ],
+    "mac-regular": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/mac.app.tar.gz",
+        "size": 85017985,
+        "sha256": "1afd082b2dc2a615a3f9f98b940005dc40f7615830f94d1c5de197b1f40413ba",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/USER_GUIDE.txt",
+        "size": 18740,
+        "sha256": "434c0c90bb348b62ff426c354ad7d79c56a708a75aad1848e89532dbee37ad18"
+      }
+    ],
+    "mac-order-checker": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.22/mac.app.tar.gz",
+        "size": 85017985,
+        "sha256": "1afd082b2dc2a615a3f9f98b940005dc40f7615830f94d1c5de197b1f40413ba",
+        "archive": "tar.gz"
       },
       {
         "name": "USER_GUIDE.txt",
