@@ -83,6 +83,51 @@
         "size": 22515,
         "sha256": "6a33fe458aec06b6fe5016c252dbf1ff533181e29a80a630474737f18144c6f3"
       }
+    ],
+    "mac": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/mac.app.tar.gz",
+        "size": 85247279,
+        "sha256": "d1c4dffefd788df4659a1f6d0c87ec638cc7a76109eb6ba137f3d16307efcea8",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/USER_GUIDE.txt",
+        "size": 22515,
+        "sha256": "6a33fe458aec06b6fe5016c252dbf1ff533181e29a80a630474737f18144c6f3"
+      }
+    ],
+    "mac-regular": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/mac.app.tar.gz",
+        "size": 85247279,
+        "sha256": "d1c4dffefd788df4659a1f6d0c87ec638cc7a76109eb6ba137f3d16307efcea8",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/USER_GUIDE.txt",
+        "size": 22515,
+        "sha256": "6a33fe458aec06b6fe5016c252dbf1ff533181e29a80a630474737f18144c6f3"
+      }
+    ],
+    "mac-order-checker": [
+      {
+        "name": "Apple Order Automation.app",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/mac.app.tar.gz",
+        "size": 85247279,
+        "sha256": "d1c4dffefd788df4659a1f6d0c87ec638cc7a76109eb6ba137f3d16307efcea8",
+        "archive": "tar.gz"
+      },
+      {
+        "name": "USER_GUIDE.txt",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.0/USER_GUIDE.txt",
+        "size": 22515,
+        "sha256": "6a33fe458aec06b6fe5016c252dbf1ff533181e29a80a630474737f18144c6f3"
+      }
     ]
   }
 }
