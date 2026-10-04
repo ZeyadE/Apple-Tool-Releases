@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "version": "0.2.26",
+  "version": "0.2.27",
   "released": "2026-10-03",
   "notes": [
-    "Google Sheets: the User Guide now walks through setting up your sheet step by step (getting the Web app URL), and the import window's button is called “Send to Google Sheet”"
+    "Google Sheets: Price is now filled in: the checkout's price for one iPhone plus the sales tax of the store's state, from a \"Tax Rates\" tab in your sheet (State | Tax). Copy the new Apps Script from Settings → Google Sheets and redeploy it."
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/app.exe",
-        "size": 36056412,
-        "sha256": "225c760af54798ad70c9639b3e760d70631ab6ce47e086133e793de4e1644be7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
+        "size": 36074836,
+        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
       },
       {
         "name": "automation.exe",
@@ -35,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/app.exe",
-        "size": 36056412,
-        "sha256": "225c760af54798ad70c9639b3e760d70631ab6ce47e086133e793de4e1644be7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
+        "size": 36074836,
+        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
       },
       {
         "name": "automation.exe",
@@ -61,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/app.exe",
-        "size": 36056412,
-        "sha256": "225c760af54798ad70c9639b3e760d70631ab6ce47e086133e793de4e1644be7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
+        "size": 36074836,
+        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
       },
       {
         "name": "automation.exe",
@@ -87,9 +87,9 @@
     "mac": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/mac.app.tar.gz",
-        "size": 85091738,
-        "sha256": "90b6c508155bb3c060c0d41767cdb32cf4ac3d140b647af378df9ee2054b9e6b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
+        "size": 85110699,
+        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
         "archive": "tar.gz"
       },
       {
@@ -102,9 +102,9 @@
     "mac-regular": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/mac.app.tar.gz",
-        "size": 85091738,
-        "sha256": "90b6c508155bb3c060c0d41767cdb32cf4ac3d140b647af378df9ee2054b9e6b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
+        "size": 85110699,
+        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
         "archive": "tar.gz"
       },
       {
@@ -117,9 +117,9 @@
     "mac-order-checker": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.26/mac.app.tar.gz",
-        "size": 85091738,
-        "sha256": "90b6c508155bb3c060c0d41767cdb32cf4ac3d140b647af378df9ee2054b9e6b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
+        "size": 85110699,
+        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
         "archive": "tar.gz"
       },
       {
