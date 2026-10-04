@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.3.2",
+  "version": "0.3.3",
   "released": "2026-10-04",
   "notes": [
     "Bug fixes and Flow Improvements"
@@ -9,9 +9,9 @@
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.2/app.exe",
-        "size": 36139177,
-        "sha256": "0e5eef338ebe574557c650d1b6bafa7297a9319b391b00507837c1b725169035"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.3/app.exe",
+        "size": 36140625,
+        "sha256": "b1773eb1aa915691cc58c614e1c6e09c03bfd034126055ea730c1fad5c8aa35c"
       },
       {
         "name": "automation.exe",
@@ -35,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.2/app.exe",
-        "size": 36139177,
-        "sha256": "0e5eef338ebe574557c650d1b6bafa7297a9319b391b00507837c1b725169035"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.3/app.exe",
+        "size": 36140625,
+        "sha256": "b1773eb1aa915691cc58c614e1c6e09c03bfd034126055ea730c1fad5c8aa35c"
       },
       {
         "name": "automation.exe",
@@ -61,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.2/app.exe",
-        "size": 36139177,
-        "sha256": "0e5eef338ebe574557c650d1b6bafa7297a9319b391b00507837c1b725169035"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.3/app.exe",
+        "size": 36140625,
+        "sha256": "b1773eb1aa915691cc58c614e1c6e09c03bfd034126055ea730c1fad5c8aa35c"
       },
       {
         "name": "automation.exe",
