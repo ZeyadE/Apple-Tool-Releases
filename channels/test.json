@@ -1,17 +1,18 @@
 {
   "schema": 1,
-  "version": "0.2.27",
+  "version": "0.2.28",
   "released": "2026-10-03",
   "notes": [
-    "Google Sheets: Price is now filled in: the checkout's price for one iPhone plus the sales tax of the store's state, from a \"Tax Rates\" tab in your sheet (State | Tax). Copy the new Apps Script from Settings → Google Sheets and redeploy it."
+    "Google Sheets: Pickup tab colors now go to your sheet the moment each task posts to Discord (about 2 seconds sooner).",
+    "Google Sheets: the Log tab now adds rows by itself when it fills up. Copy the new Apps Script from Settings → Google Sheets, paste it into your sheet's script and redeploy it (New version)."
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
-        "size": 36074836,
-        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.28/app.exe",
+        "size": 36076894,
+        "sha256": "4b4fd1ac5401e45fbbf2113e8ff82e696f38bf36a88eb6c6bd746d698a2a892d"
       },
       {
         "name": "automation.exe",
@@ -35,9 +36,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
-        "size": 36074836,
-        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.28/app.exe",
+        "size": 36076894,
+        "sha256": "4b4fd1ac5401e45fbbf2113e8ff82e696f38bf36a88eb6c6bd746d698a2a892d"
       },
       {
         "name": "automation.exe",
@@ -61,9 +62,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/app.exe",
-        "size": 36074836,
-        "sha256": "7d2eae7712cf757fcb5769648a346f3c1b54c0ea35cb59448622622e71d0c0f5"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.28/app.exe",
+        "size": 36076894,
+        "sha256": "4b4fd1ac5401e45fbbf2113e8ff82e696f38bf36a88eb6c6bd746d698a2a892d"
       },
       {
         "name": "automation.exe",
@@ -76,51 +77,6 @@
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.10/login_worker.exe",
         "size": 127660544,
         "sha256": "d3a63927c5ee3904e9384c35f54dafdc3e507242080c35802ffdd5c5163863c4"
-      },
-      {
-        "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.25/USER_GUIDE.txt",
-        "size": 19693,
-        "sha256": "fa178a438cb3d704ee5402bb716e7411bc86317e769050b8e21df5eae7482645"
-      }
-    ],
-    "mac": [
-      {
-        "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
-        "size": 85110699,
-        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
-        "archive": "tar.gz"
-      },
-      {
-        "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.25/USER_GUIDE.txt",
-        "size": 19693,
-        "sha256": "fa178a438cb3d704ee5402bb716e7411bc86317e769050b8e21df5eae7482645"
-      }
-    ],
-    "mac-regular": [
-      {
-        "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
-        "size": 85110699,
-        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
-        "archive": "tar.gz"
-      },
-      {
-        "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.25/USER_GUIDE.txt",
-        "size": 19693,
-        "sha256": "fa178a438cb3d704ee5402bb716e7411bc86317e769050b8e21df5eae7482645"
-      }
-    ],
-    "mac-order-checker": [
-      {
-        "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.2.27/mac.app.tar.gz",
-        "size": 85110699,
-        "sha256": "9f2ce1cdf319a904b3181d9cbf3b2d30cc6f9f695f1f73d7678fa7cb4f757f6a",
-        "archive": "tar.gz"
       },
       {
         "name": "USER_GUIDE.txt",
