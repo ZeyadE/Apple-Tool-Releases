@@ -3,7 +3,7 @@
   "version": "0.3.11",
   "released": "2026-10-06",
   "notes": [
-    "Your key now has a tier name, from Seed to Orchard. See yours in Settings → Account."
+    "Added access level titles"
   ],
   "builds": {
     "windows": [
