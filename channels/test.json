@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.3.6",
+  "version": "0.3.7",
   "released": "2026-10-06",
   "notes": [
     "QR Codes: The QR picture now shows Apple's phone version of the pickup page, so it's easier to show at the store."
@@ -9,15 +9,15 @@
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/app.exe",
-        "size": 36145514,
-        "sha256": "b26a0d895d688c8b3dd1351bc4e43f2d37f420038d919e6ef026cc7579652751"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/app.exe",
+        "size": 36145659,
+        "sha256": "7ca8df4bbca3b1d7c8bd5a4ff948bf28881b7be1b5adbb6d66798f143ef7275d"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/automation.exe",
-        "size": 129101312,
-        "sha256": "10e63164ef08a40754080a287b683c20249a5971f92bb0cc7b499ef779f5c0b8"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/automation.exe",
+        "size": 129113600,
+        "sha256": "936db329fc71b3c9e42ee3d8a9aa3e61900331f44e2ffbc199541adb8afa0a45"
       },
       {
         "name": "login_worker.exe",
@@ -35,15 +35,15 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/app.exe",
-        "size": 36145514,
-        "sha256": "b26a0d895d688c8b3dd1351bc4e43f2d37f420038d919e6ef026cc7579652751"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/app.exe",
+        "size": 36145659,
+        "sha256": "7ca8df4bbca3b1d7c8bd5a4ff948bf28881b7be1b5adbb6d66798f143ef7275d"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/automation.exe",
-        "size": 129101312,
-        "sha256": "10e63164ef08a40754080a287b683c20249a5971f92bb0cc7b499ef779f5c0b8"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/automation.exe",
+        "size": 129113600,
+        "sha256": "936db329fc71b3c9e42ee3d8a9aa3e61900331f44e2ffbc199541adb8afa0a45"
       },
       {
         "name": "login_worker.exe",
@@ -61,15 +61,15 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/app.exe",
-        "size": 36145514,
-        "sha256": "b26a0d895d688c8b3dd1351bc4e43f2d37f420038d919e6ef026cc7579652751"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/app.exe",
+        "size": 36145659,
+        "sha256": "7ca8df4bbca3b1d7c8bd5a4ff948bf28881b7be1b5adbb6d66798f143ef7275d"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.6/automation.exe",
-        "size": 129101312,
-        "sha256": "10e63164ef08a40754080a287b683c20249a5971f92bb0cc7b499ef779f5c0b8"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.7/automation.exe",
+        "size": 129113600,
+        "sha256": "936db329fc71b3c9e42ee3d8a9aa3e61900331f44e2ffbc199541adb8afa0a45"
       },
       {
         "name": "login_worker.exe",
