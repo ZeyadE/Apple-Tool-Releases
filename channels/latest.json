@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "version": "0.3.11",
+  "version": "0.3.12",
   "released": "2026-10-06",
   "notes": [
-    "Added access level titles"
+    "Added the Orchard logo as the profile picture for your Discord bot and webhook posts"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/app.exe",
-        "size": 33221374,
-        "sha256": "dc4fe41e83d5ffd6f00be042bfb72e63a56f6b985789286d45fb956b8b01c3ce"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/app.exe",
+        "size": 33223716,
+        "sha256": "d49e494ab996a64b83deb7a1ba49efe536434e6792e91ed102883c36fdbc6993"
       },
       {
         "name": "automation.exe",
@@ -35,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/app.exe",
-        "size": 33221374,
-        "sha256": "dc4fe41e83d5ffd6f00be042bfb72e63a56f6b985789286d45fb956b8b01c3ce"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/app.exe",
+        "size": 33223716,
+        "sha256": "d49e494ab996a64b83deb7a1ba49efe536434e6792e91ed102883c36fdbc6993"
       },
       {
         "name": "automation.exe",
@@ -61,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/app.exe",
-        "size": 33221374,
-        "sha256": "dc4fe41e83d5ffd6f00be042bfb72e63a56f6b985789286d45fb956b8b01c3ce"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/app.exe",
+        "size": 33223716,
+        "sha256": "d49e494ab996a64b83deb7a1ba49efe536434e6792e91ed102883c36fdbc6993"
       },
       {
         "name": "automation.exe",
@@ -87,9 +87,9 @@
     "mac": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/mac.app.tar.gz",
-        "size": 81185112,
-        "sha256": "18dc082701f405cc49c4c06a1b3bb106e49007a9e6214374235346b9d69da9de",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/mac.app.tar.gz",
+        "size": 81187163,
+        "sha256": "ce3e407b0926436546193f726df7a65282b3efb112cf0905aa20dee583e086e8",
         "archive": "tar.gz"
       },
       {
@@ -102,9 +102,9 @@
     "mac-regular": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/mac.app.tar.gz",
-        "size": 81185112,
-        "sha256": "18dc082701f405cc49c4c06a1b3bb106e49007a9e6214374235346b9d69da9de",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/mac.app.tar.gz",
+        "size": 81187163,
+        "sha256": "ce3e407b0926436546193f726df7a65282b3efb112cf0905aa20dee583e086e8",
         "archive": "tar.gz"
       },
       {
@@ -117,9 +117,9 @@
     "mac-order-checker": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.11/mac.app.tar.gz",
-        "size": 81185112,
-        "sha256": "18dc082701f405cc49c4c06a1b3bb106e49007a9e6214374235346b9d69da9de",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.12/mac.app.tar.gz",
+        "size": 81187163,
+        "sha256": "ce3e407b0926436546193f726df7a65282b3efb112cf0905aa20dee583e086e8",
         "archive": "tar.gz"
       },
       {
