@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.3.9",
+  "version": "0.3.10",
   "released": "2026-10-06",
   "notes": [
     "Headless Mode is back",
@@ -11,9 +11,9 @@
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/app.exe",
-        "size": 33216857,
-        "sha256": "c82c4f7b23055e17e59835529c064765bbe301a3f1446400fc92c1dc0a6d69e2"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/app.exe",
+        "size": 33221017,
+        "sha256": "95a21eb0465fbb9a0c046a27b6714fbf188ff63c4ee9bba4ff4cb8c4a1748dcf"
       },
       {
         "name": "automation.exe",
@@ -29,17 +29,17 @@
       },
       {
         "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/USER_GUIDE.txt",
-        "size": 22531,
-        "sha256": "fdc611805c40760d2bf1b201b58704796c35cbdeb803dde03b9f766fb0454445"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/USER_GUIDE.txt",
+        "size": 23212,
+        "sha256": "3b4fb45a432d62e3e50f99e261bce4bca97ade920aa9414ca78ae680c0632e42"
       }
     ],
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/app.exe",
-        "size": 33216857,
-        "sha256": "c82c4f7b23055e17e59835529c064765bbe301a3f1446400fc92c1dc0a6d69e2"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/app.exe",
+        "size": 33221017,
+        "sha256": "95a21eb0465fbb9a0c046a27b6714fbf188ff63c4ee9bba4ff4cb8c4a1748dcf"
       },
       {
         "name": "automation.exe",
@@ -55,17 +55,17 @@
       },
       {
         "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/USER_GUIDE.txt",
-        "size": 22531,
-        "sha256": "fdc611805c40760d2bf1b201b58704796c35cbdeb803dde03b9f766fb0454445"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/USER_GUIDE.txt",
+        "size": 23212,
+        "sha256": "3b4fb45a432d62e3e50f99e261bce4bca97ade920aa9414ca78ae680c0632e42"
       }
     ],
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/app.exe",
-        "size": 33216857,
-        "sha256": "c82c4f7b23055e17e59835529c064765bbe301a3f1446400fc92c1dc0a6d69e2"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/app.exe",
+        "size": 33221017,
+        "sha256": "95a21eb0465fbb9a0c046a27b6714fbf188ff63c4ee9bba4ff4cb8c4a1748dcf"
       },
       {
         "name": "automation.exe",
@@ -81,9 +81,9 @@
       },
       {
         "name": "USER_GUIDE.txt",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.9/USER_GUIDE.txt",
-        "size": 22531,
-        "sha256": "fdc611805c40760d2bf1b201b58704796c35cbdeb803dde03b9f766fb0454445"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.10/USER_GUIDE.txt",
+        "size": 23212,
+        "sha256": "3b4fb45a432d62e3e50f99e261bce4bca97ade920aa9414ca78ae680c0632e42"
       }
     ]
   }
