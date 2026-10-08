@@ -1,18 +1,17 @@
 {
   "schema": 1,
-  "version": "0.3.15",
-  "released": "2026-10-07",
+  "version": "0.3.16",
+  "released": "2026-10-08",
   "notes": [
-    "Order Checker: Picked-up orders now save each iPhone's serial number, shown in the Pickup Confirmed post, Export to CSV and search",
-    "Google Sheets: Picked-up orders are copied to a new Confirmed Pickups tab with their serial numbers (paste the new Apps Script, see UPDATING THE SCRIPT in the guide)"
+    "Google Sheets: serial numbers now go in a Serial Number column on the Pickup tab when an order turns green, instead of a separate Confirmed Pickups tab. Update your sheet's Apps Script."
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/app.exe",
-        "size": 33236994,
-        "sha256": "6b8e8ac0d1f3a3fdc71836367826c3c2c2d45b5ef94876acfaf4c81842e73b40"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/app.exe",
+        "size": 33234540,
+        "sha256": "b238259f13001ccb221e2e49625dc5963103c2b09776b43d012112d011862a92"
       },
       {
         "name": "automation.exe",
@@ -36,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/app.exe",
-        "size": 33236994,
-        "sha256": "6b8e8ac0d1f3a3fdc71836367826c3c2c2d45b5ef94876acfaf4c81842e73b40"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/app.exe",
+        "size": 33234540,
+        "sha256": "b238259f13001ccb221e2e49625dc5963103c2b09776b43d012112d011862a92"
       },
       {
         "name": "automation.exe",
@@ -62,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/app.exe",
-        "size": 33236994,
-        "sha256": "6b8e8ac0d1f3a3fdc71836367826c3c2c2d45b5ef94876acfaf4c81842e73b40"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/app.exe",
+        "size": 33234540,
+        "sha256": "b238259f13001ccb221e2e49625dc5963103c2b09776b43d012112d011862a92"
       },
       {
         "name": "automation.exe",
@@ -88,9 +87,9 @@
     "mac": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/mac.app.tar.gz",
-        "size": 81147253,
-        "sha256": "b5d4f10207d8a49007f6a8f3f35a7b602dd898ede1083005c872101e9179f03b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/mac.app.tar.gz",
+        "size": 81142217,
+        "sha256": "8675fa8d50499d242c880e3a89c3dba1ec6062f430f36c1f0c75270d94d49bf4",
         "archive": "tar.gz"
       },
       {
@@ -103,9 +102,9 @@
     "mac-regular": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/mac.app.tar.gz",
-        "size": 81147253,
-        "sha256": "b5d4f10207d8a49007f6a8f3f35a7b602dd898ede1083005c872101e9179f03b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/mac.app.tar.gz",
+        "size": 81142217,
+        "sha256": "8675fa8d50499d242c880e3a89c3dba1ec6062f430f36c1f0c75270d94d49bf4",
         "archive": "tar.gz"
       },
       {
@@ -118,9 +117,9 @@
     "mac-order-checker": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.15/mac.app.tar.gz",
-        "size": 81147253,
-        "sha256": "b5d4f10207d8a49007f6a8f3f35a7b602dd898ede1083005c872101e9179f03b",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.16/mac.app.tar.gz",
+        "size": 81142217,
+        "sha256": "8675fa8d50499d242c880e3a89c3dba1ec6062f430f36c1f0c75270d94d49bf4",
         "archive": "tar.gz"
       },
       {
