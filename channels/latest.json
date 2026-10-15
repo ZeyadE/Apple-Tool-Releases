@@ -1,23 +1,23 @@
 {
   "schema": 1,
-  "version": "0.3.23",
-  "released": "2026-10-14",
+  "version": "0.3.24",
+  "released": "2026-10-15",
   "notes": [
-    "More info from order status"
+    "Cancelled Store fix"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/app.exe",
-        "size": 33248958,
-        "sha256": "6742ab45231ce5657e32e38e8cd33e01eb06fbe9aa1aaa1a86db460c4b16cf41"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
@@ -35,15 +35,15 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/app.exe",
-        "size": 33248958,
-        "sha256": "6742ab45231ce5657e32e38e8cd33e01eb06fbe9aa1aaa1a86db460c4b16cf41"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
@@ -61,15 +61,15 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/app.exe",
-        "size": 33248958,
-        "sha256": "6742ab45231ce5657e32e38e8cd33e01eb06fbe9aa1aaa1a86db460c4b16cf41"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
@@ -87,9 +87,9 @@
     "mac": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/mac.app.tar.gz",
-        "size": 81260199,
-        "sha256": "02b5bdcb918a06f2789ef6d55a9a573f2ac0ce08c2cdc651aea501fd52827c30",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/mac.app.tar.gz",
+        "size": 81264365,
+        "sha256": "ad94df90e7452d506eff230b91a4dd14285a25b09e11f45e01cb9d726d5fece6",
         "archive": "tar.gz"
       },
       {
@@ -102,9 +102,9 @@
     "mac-regular": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/mac.app.tar.gz",
-        "size": 81260199,
-        "sha256": "02b5bdcb918a06f2789ef6d55a9a573f2ac0ce08c2cdc651aea501fd52827c30",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/mac.app.tar.gz",
+        "size": 81264365,
+        "sha256": "ad94df90e7452d506eff230b91a4dd14285a25b09e11f45e01cb9d726d5fece6",
         "archive": "tar.gz"
       },
       {
@@ -117,9 +117,9 @@
     "mac-order-checker": [
       {
         "name": "Apple Order Automation.app",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/mac.app.tar.gz",
-        "size": 81260199,
-        "sha256": "02b5bdcb918a06f2789ef6d55a9a573f2ac0ce08c2cdc651aea501fd52827c30",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/mac.app.tar.gz",
+        "size": 81264365,
+        "sha256": "ad94df90e7452d506eff230b91a4dd14285a25b09e11f45e01cb9d726d5fece6",
         "archive": "tar.gz"
       },
       {
