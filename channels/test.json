@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "version": "0.3.24",
-  "released": "2026-10-14",
+  "released": "2026-10-15",
   "notes": [
-    "Smoother window resizing"
+    "Cancelled Store fix"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
-        "size": 33252404,
-        "sha256": "e7dcc11c54b09e44c70839356e90fd1efc987b680a1b3efa246f7e7fc8b16ca4"
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
@@ -36,14 +36,14 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
-        "size": 33252404,
-        "sha256": "e7dcc11c54b09e44c70839356e90fd1efc987b680a1b3efa246f7e7fc8b16ca4"
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
@@ -62,14 +62,14 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/app.exe",
-        "size": 33252404,
-        "sha256": "e7dcc11c54b09e44c70839356e90fd1efc987b680a1b3efa246f7e7fc8b16ca4"
+        "size": 33252466,
+        "sha256": "ec21083359cf1d8ff8ed7846fc46d471294aa24a1f14091e9c0f7662c364bdf2"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.23/automation.exe",
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.24/automation.exe",
         "size": 129327104,
-        "sha256": "2962582205813c0151f13ac7a83e12e8fe84ebc0a46c85ddb63f3c5a91012601"
+        "sha256": "dac9b57aa13e55d84bf49d3739560215267b3bc8712bf8f03dbbef83e88fdbcd"
       },
       {
         "name": "login_worker.exe",
