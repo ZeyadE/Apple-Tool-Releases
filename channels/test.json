@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "version": "0.3.32",
+  "version": "0.3.33",
   "released": "2026-10-17",
   "notes": [
-    "Fixed leftover temp files filling up disk space"
+    "Memory leak fix"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.32/app.exe",
-        "size": 33286373,
-        "sha256": "f5aa116d1c7c00a5be78a9f7d2b7a229d461b23215ba1b6254cda5e716d688b1"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.33/app.exe",
+        "size": 33288839,
+        "sha256": "9892fbd7d8a5ba300434b2c420de7635dae9d9169f4bb1c459a9b53b33777af1"
       },
       {
         "name": "automation.exe",
@@ -35,9 +35,9 @@
     "windows-regular": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.32/app.exe",
-        "size": 33286373,
-        "sha256": "f5aa116d1c7c00a5be78a9f7d2b7a229d461b23215ba1b6254cda5e716d688b1"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.33/app.exe",
+        "size": 33288839,
+        "sha256": "9892fbd7d8a5ba300434b2c420de7635dae9d9169f4bb1c459a9b53b33777af1"
       },
       {
         "name": "automation.exe",
@@ -61,9 +61,9 @@
     "windows-order-checker": [
       {
         "name": "app.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.32/app.exe",
-        "size": 33286373,
-        "sha256": "f5aa116d1c7c00a5be78a9f7d2b7a229d461b23215ba1b6254cda5e716d688b1"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.33/app.exe",
+        "size": 33288839,
+        "sha256": "9892fbd7d8a5ba300434b2c420de7635dae9d9169f4bb1c459a9b53b33777af1"
       },
       {
         "name": "automation.exe",
