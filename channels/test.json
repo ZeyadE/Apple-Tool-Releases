@@ -1,11 +1,14 @@
 {
   "schema": 1,
   "version": "0.3.35",
-  "released": "2026-10-20",
+  "released": "2026-10-22",
   "notes": [
-    "Click any cell to copy it; right-click → Copy (or Ctrl+C) copies whole rows · Ctrl+Z undoes a delete · Delete, Enter and Esc work on selected tasks · right-click → Open Order Page",
-    "Orchard reopens how you left it (window, tab, search, column widths), new tasks start with your last settings, and a desktop notification tells you when your tasks finish",
-    "Google Sheets: orders hidden by a filter on the Pickup tab now get colored (update your sheet's script)"
+    "Click to copy each field in a task",
+    "Right click task > copy to copy the whole task info",
+    "Delete shortcut to delete selected tasks",
+    "Enter shortcut to edit selected tasks",
+    "Esc shortcut to unselect tasks",
+    "Right Click > Open Order Page - allows you to open task in the browser"
   ],
   "builds": {
     "windows": [
