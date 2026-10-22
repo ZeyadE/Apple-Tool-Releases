@@ -8,21 +8,22 @@
     "Delete shortcut to delete selected tasks",
     "Enter shortcut to edit selected tasks",
     "Esc shortcut to unselect tasks",
-    "Right Click > Open Order Page - allows you to open task in the browser"
+    "Right Click > Open Order Page - allows you to open task in the browser",
+    "Add delay between ✅ / 👍 reaction and auto order check task run in settings"
   ],
   "builds": {
     "windows": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/app.exe",
-        "size": 33315300,
-        "sha256": "47673a05abc9d378756b1a01f0a52603c1851d355eb741b5abe5660d55c9e4b9"
+        "size": 33319561,
+        "sha256": "407cefb76da2ca079af63f145a545672e3aa7452b2634705729793c11483f5cd"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.31/automation.exe",
-        "size": 129417216,
-        "sha256": "5c89f13b8da19811a7be5be941f2769a6629eed16887b943acb40183d8407a82"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
+        "size": 129440256,
+        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
       },
       {
         "name": "login_worker.exe",
@@ -33,22 +34,22 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/USER_GUIDE.txt",
-        "size": 30120,
-        "sha256": "28edb1a2b1b45da0524341be47f0a3e98f7f58ef66e24af5a05fdd5514fdc8d6"
+        "size": 30443,
+        "sha256": "f89b784a2ea1125dfb9aad975b7169440463f4e82c9d949dc92675e38f84d151"
       }
     ],
     "windows-regular": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/app.exe",
-        "size": 33315300,
-        "sha256": "47673a05abc9d378756b1a01f0a52603c1851d355eb741b5abe5660d55c9e4b9"
+        "size": 33319561,
+        "sha256": "407cefb76da2ca079af63f145a545672e3aa7452b2634705729793c11483f5cd"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.31/automation.exe",
-        "size": 129417216,
-        "sha256": "5c89f13b8da19811a7be5be941f2769a6629eed16887b943acb40183d8407a82"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
+        "size": 129440256,
+        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
       },
       {
         "name": "login_worker.exe",
@@ -59,22 +60,22 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/USER_GUIDE.txt",
-        "size": 30120,
-        "sha256": "28edb1a2b1b45da0524341be47f0a3e98f7f58ef66e24af5a05fdd5514fdc8d6"
+        "size": 30443,
+        "sha256": "f89b784a2ea1125dfb9aad975b7169440463f4e82c9d949dc92675e38f84d151"
       }
     ],
     "windows-order-checker": [
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/app.exe",
-        "size": 33315300,
-        "sha256": "47673a05abc9d378756b1a01f0a52603c1851d355eb741b5abe5660d55c9e4b9"
+        "size": 33319561,
+        "sha256": "407cefb76da2ca079af63f145a545672e3aa7452b2634705729793c11483f5cd"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.31/automation.exe",
-        "size": 129417216,
-        "sha256": "5c89f13b8da19811a7be5be941f2769a6629eed16887b943acb40183d8407a82"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
+        "size": 129440256,
+        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
       },
       {
         "name": "login_worker.exe",
@@ -85,8 +86,8 @@
       {
         "name": "USER_GUIDE.txt",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/USER_GUIDE.txt",
-        "size": 30120,
-        "sha256": "28edb1a2b1b45da0524341be47f0a3e98f7f58ef66e24af5a05fdd5514fdc8d6"
+        "size": 30443,
+        "sha256": "f89b784a2ea1125dfb9aad975b7169440463f4e82c9d949dc92675e38f84d151"
       }
     ]
   }
