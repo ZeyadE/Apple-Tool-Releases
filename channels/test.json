@@ -10,14 +10,14 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/app.exe",
-        "size": 33319818,
-        "sha256": "19dd73eaefaa468e62652ea31451b48f78da2b622cdeada0e8ee37c28557346b"
+        "size": 33319254,
+        "sha256": "472eff63acff879477ad630f293de8d4491526c235edd9b535c72a22f22166d3"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
-        "size": 129440256,
-        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/automation.exe",
+        "size": 129444864,
+        "sha256": "d81cd6c3d213da1385f961b80e13d9cc8863e871450a37f58aa2034b3d64c695"
       },
       {
         "name": "login_worker.exe",
@@ -36,14 +36,14 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/app.exe",
-        "size": 33319818,
-        "sha256": "19dd73eaefaa468e62652ea31451b48f78da2b622cdeada0e8ee37c28557346b"
+        "size": 33319254,
+        "sha256": "472eff63acff879477ad630f293de8d4491526c235edd9b535c72a22f22166d3"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
-        "size": 129440256,
-        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/automation.exe",
+        "size": 129444864,
+        "sha256": "d81cd6c3d213da1385f961b80e13d9cc8863e871450a37f58aa2034b3d64c695"
       },
       {
         "name": "login_worker.exe",
@@ -62,14 +62,14 @@
       {
         "name": "app.exe",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/app.exe",
-        "size": 33319818,
-        "sha256": "19dd73eaefaa468e62652ea31451b48f78da2b622cdeada0e8ee37c28557346b"
+        "size": 33319254,
+        "sha256": "472eff63acff879477ad630f293de8d4491526c235edd9b535c72a22f22166d3"
       },
       {
         "name": "automation.exe",
-        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.35/automation.exe",
-        "size": 129440256,
-        "sha256": "d8be56a23c6f8ae2db341519600234cf92a8394ae64c14c5e8d25bcd6dbaeae7"
+        "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/automation.exe",
+        "size": 129444864,
+        "sha256": "d81cd6c3d213da1385f961b80e13d9cc8863e871450a37f58aa2034b3d64c695"
       },
       {
         "name": "login_worker.exe",
@@ -88,8 +88,8 @@
       {
         "name": "Apple Order Automation.app",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/mac.app.tar.gz",
-        "size": 81382315,
-        "sha256": "d8a3e3a7de60128feb4ad8aa0cb10b9e9bd13e026a88da75514908c671d04d8d",
+        "size": 81305202,
+        "sha256": "de778c8a112e7236f2c21918dc4e8d47b88706f1540088f023740db7ffd680bb",
         "archive": "tar.gz"
       },
       {
@@ -103,8 +103,8 @@
       {
         "name": "Apple Order Automation.app",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/mac.app.tar.gz",
-        "size": 81382315,
-        "sha256": "d8a3e3a7de60128feb4ad8aa0cb10b9e9bd13e026a88da75514908c671d04d8d",
+        "size": 81305202,
+        "sha256": "de778c8a112e7236f2c21918dc4e8d47b88706f1540088f023740db7ffd680bb",
         "archive": "tar.gz"
       },
       {
@@ -118,8 +118,8 @@
       {
         "name": "Apple Order Automation.app",
         "url": "https://github.com/ZeyadE/Apple-Tool-Releases/releases/download/v0.3.36/mac.app.tar.gz",
-        "size": 81382315,
-        "sha256": "d8a3e3a7de60128feb4ad8aa0cb10b9e9bd13e026a88da75514908c671d04d8d",
+        "size": 81305202,
+        "sha256": "de778c8a112e7236f2c21918dc4e8d47b88706f1540088f023740db7ffd680bb",
         "archive": "tar.gz"
       },
       {
